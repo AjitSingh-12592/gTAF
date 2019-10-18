@@ -1,0 +1,9 @@
+['12', '09', '44', '34']
+Colour
+In _validate_testbed_configs. 
+('Test bed Name [config_parser.py] : ', 'GTAF_TEST_BED_CONTACT')
+('Device serial number [config_parser.py]: ', 'FA6A40300536')
+[GTAF_TEST_BED_CONTACT] 09-27 15:06:33.455 INFO Test output folder: "/tmp/logs/mobly/GTAF_TEST_BED_CONTACT/09-27-2019_15-06-33-455"
+[GTAF_TEST_BED_CONTACT] 09-27 15:06:33.461 INFO Test bed name for current execution : GTAF_TEST_BED_CONTACT
+[GTAF_TEST_BED_CONTACT] 09-27 15:06:33.462 INFO ################### Contacts ###############
+[GTAF_TEST_BED_CONTACT] 09-27 15:06:33.463 INFO Summary for test run GTAF_TEST_BED_CONTACT@09-27-2019_15-06-33-455: Error 0, Executed 0, Failed 0, Passed 0, Requested 0, Skipped 0

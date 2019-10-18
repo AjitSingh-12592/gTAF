@@ -1,0 +1,40 @@
+In _validate_testbed_configs. 
+('Test bed Name [config_parser.py] : ', 'GTAF_TEST_BED_CONTACT_FA6A40300536')
+('Device serial number [config_parser.py]: ', 'FA6A40300536')
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:30.878 INFO Test output folder: "/tmp/logs/mobly/GTAF_TEST_BED_CONTACT_FA6A40300536/10-11-2019_09-54-30-877"
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:30.886 INFO Test bed name for current execution : GTAF_TEST_BED_CONTACT_FA6A40300536
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:30.887 INFO ################### Contacts ###############
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:31.018 INFO android_version : 9
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:31.081 INFO device_model : Pixel
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:31.082 INFO Loading device configuration for Pixel device[Android version-9]
+('Device type selected :- ', 'mobile')
+('Device model selected :- ', 'Pixel')
+('Android version selected :- ', '9')
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:31.461 INFO List of device found in test bed : ['FA6A40300536']
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:31.868 INFO [AndroidDevice|FA6A40300536] Launching snippet apk com.google.android.mobly.snippet.example4 with protocol 1.0
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:32.650 INFO Launching contact app on device with device id :FA6A40300536 
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:32.651 INFO [Test] test_remove_favorite_contact
+Success
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:38.950 INFO In allow_contact_permission()
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:44.201 INFO Checking skip sign in screen
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:44.477 INFO In account_sync_msg_check()
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:44.679 INFO Deleting existing contacts
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:46.682 INFO Delete all contacts
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:46.682 INFO Waiting to display three dot menu options
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:46.682 INFO In allow_contact_permission()
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:51.111 INFO Three dot menu options displayed
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:51.392 INFO Click on more options
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:52.608 INFO Click on more select all
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:53.665 INFO Click on menu option
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:54.903 INFO Click on delete
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:54:54.903 INFO Creating new contact 
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:55:03.008 INFO Adding created contact to favourites list
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:55:03.965 INFO Fetched content desc Favorites 
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:55:03.966 INFO Fetched content desc from config Favorites 
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:55:04.039 INFO Removing created contact from favourites list
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:55:06.053 INFO Verifying if favourites contact found..
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:55:17.487 INFO fav_content_desc : 'None'
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:55:17.579 INFO created_contact : 'True'
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:55:17.651 INFO [Test] test_remove_favorite_contact PASS
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:55:20.380 INFO Summary for test class Contacts: Error 0, Executed 1, Failed 0, Passed 1, Requested 1, Skipped 0
+[GTAF_TEST_BED_CONTACT_FA6A40300536] 10-11 09:55:20.382 INFO Summary for test run GTAF_TEST_BED_CONTACT_FA6A40300536@10-11-2019_09-54-30-877: Error 0, Executed 1, Failed 0, Passed 1, Requested 1, Skipped 0

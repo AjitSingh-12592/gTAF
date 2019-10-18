@@ -1,0 +1,99 @@
+set +e
+sudo chmod 777 -R /tmp/logs/mobly
+sudo chmod 777 -R /gtaflog
+cd /home/edat/Desktop/gTAF/mobly
+sudo rm -rf jenkins_logs/*
+sudo rm /gtaflog/execution_summary.csv
+set +e
+sudo python add_csv_header.py
+
+sleep 5
+
+set +e
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_merge_duplicates --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_report.py ${BUILD_NUMBER} ${JOB_NAME} GTAF_TEST_BED_CONTACT test_merge_duplicates
+
+sleep 5
+set +e
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_favourite_in_all_contact --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_report.py ${BUILD_NUMBER} ${JOB_NAME} GTAF_TEST_BED_CONTACT test_favourite_in_all_contact
+
+sleep 5
+
+set +e
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_google_play_service_permission_revoke --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_report.py ${BUILD_NUMBER} ${JOB_NAME} GTAF_TEST_BED_CONTACT test_google_play_service_permission_revoke
+
+sleep 5
+
+set +e
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_share_contacts --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_report.py ${BUILD_NUMBER} ${JOB_NAME} GTAF_TEST_BED_CONTACT test_share_contacts
+
+sleep 5
+
+set +e
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_create_contact_name --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_report.py ${BUILD_NUMBER} ${JOB_NAME} GTAF_TEST_BED_CONTACT test_create_contact_name
+
+sleep 5
+
+set +e
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_create_contact_all_fields --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_report.py ${BUILD_NUMBER} ${JOB_NAME} GTAF_TEST_BED_CONTACT test_create_contact_all_fields
+
+sleep 5
+
+set +e
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_remove_favorite_contact --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_report.py ${BUILD_NUMBER} ${JOB_NAME} GTAF_TEST_BED_CONTACT test_remove_favorite_contact
+
+sleep 5
+
+set +e
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_contact_permission_revoke_from_gmail --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_report.py ${BUILD_NUMBER} ${JOB_NAME} GTAF_TEST_BED_CONTACT test_contact_permission_revoke_from_gmail
+
+sleep 5
+
+set +e
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_delete_contact --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_report.py ${BUILD_NUMBER} ${JOB_NAME} GTAF_TEST_BED_CONTACT test_delete_contact
+
+sleep 5
+
+set +e
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_contact_permission_grant_from_gmail --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_report.py ${BUILD_NUMBER} ${JOB_NAME} GTAF_TEST_BED_CONTACT test_contact_permission_grant_from_gmail
+
+sleep 5
+
+set +e
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_create_label --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_report.py ${BUILD_NUMBER} ${JOB_NAME} GTAF_TEST_BED_CONTACT test_create_label
+
+sleep 5
+
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_suggestion_welcome_card --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_report.py ${BUILD_NUMBER} ${JOB_NAME} GTAF_TEST_BED_CONTACT test_suggestion_welcome_card
+
+sleep 5
+
+set +e
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_contact_help_feedback --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_report.py ${BUILD_NUMBER} ${JOB_NAME} GTAF_TEST_BED_CONTACT test_contact_help_feedback
+
+sleep 5
+
+set +e
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_search_favourite_on_top --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_report.py ${BUILD_NUMBER} ${JOB_NAME} GTAF_TEST_BED_CONTACT test_search_favourite_on_top
+
+sleep 5
+
+set +e
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_strong_match_for_duplicates --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_report.py ${BUILD_NUMBER} ${JOB_NAME} GTAF_TEST_BED_CONTACT test_strong_match_for_duplicates
+sudo python send_email.py
+#sudo python summary.py
+#sudo python send_report_email.py ${BUILD_NUMBER}

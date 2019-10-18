@@ -1,0 +1,26 @@
+---
+Requested Tests: [test_YouTube_Video_Playback]
+Type: TestNameList
+---
+Begin Time: 1558411757544
+Details: null
+End Time: 1558411791377
+Extra Errors: {}
+Extras: null
+Result: PASS
+Stacktrace: null
+Test Class: Youtube_App_Test
+Test Name: test_YouTube_Video_Playback
+Type: Record
+UID: null
+---
+Controller Info:
+-   build_info: {build_id: PPR2.181005.003, build_type: user}
+    model: sailfish
+    serial: FA6BA0300749
+    user_added_info: {}
+Controller Name: AndroidDevice
+Test Class: Youtube_App_Test
+Timestamp: 1558411791.891109
+Type: ControllerInfo
+--- {Error: 0, Executed: 1, Failed: 0, Passed: 1, Requested: 1, Skipped: 0, Type: Summary}

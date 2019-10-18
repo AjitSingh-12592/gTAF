@@ -1,0 +1,20 @@
+
+CAPTION_VIDEO_ID = "QRS8MkLhQmM"
+NOT_AVAILABLE_VID = "yr-tyXfwuiY"
+OF = "of"
+UTF = "utf-8"
+
+# Selectors
+AVATAR_SELCTOR = "com.google.android.youtube:id/mobile_topbar_avatar"
+CAPTION_TEXT_SELECTOR = "com.google.android.youtube:id/subtitle_window_identifier"
+VIDEO_SELECTOR = "com.google.android.youtube:id/thumbnail"
+PLAY_PAUSE_BUTTON_SELECTOR = "com.google.android.youtube:id/player_control_play_pause_replay_button"
+SEEK_BAR_SELECTOR = "android.widget.SeekBar"
+YT_CAPTION_THREE_DOT_BUTTON = "com.google.android.youtube:id/player_overflow_button"
+VIDEO_NOT_AVAILABLE_TEXT_SELECTOR = "com.google.android.youtube:id/player_error_view"
+SETTINGS = "Settings"
+ABOUT = "About"
+CAPTIONS = "Captions"
+CAPTION_LANGUAGE = "English (auto-generated)"
+LANGUAGE = "English"
+VIDEO_NOT_AVAILABLE_ERROR = "This video is not available."

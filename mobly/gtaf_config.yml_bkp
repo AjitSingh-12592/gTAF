@@ -1,0 +1,29 @@
+TestBeds:
+  - Name: GTAF_TEST_BED_GMAP
+    Controllers:
+        AndroidDevice:
+          - serial: 3208492d435d7133
+            phone_number: 123456
+  - Name: GTAF_TEST_BED_YOUTUBE
+    Controllers:
+        AndroidDevice:
+          - serial: ZY22252HGK
+            phone_number: 7891011
+  - Name: GTAF_TEST_BED_GOOGLE_HOME_AIY
+    Controllers:
+        AndroidDevice:
+          - serial: FA6BA0300749
+            phone_number: 12131415
+
+  - Name: GTAF_TEST_BED_BT_PAIRING
+    Controllers:
+        AndroidDevice:
+          - serial: FA6BA0300749
+            label: discoverer
+          - serial: FA6A20300145
+            label: target
+  - Name: GTAF_TEST_BED_WEB_BROWSER
+    Controllers:
+        AndroidDevice:
+          - serial: FA6BA0300749
+            phone_number: 12131415

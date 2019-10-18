@@ -1,0 +1,2 @@
+Test Name    |    Result    |  Device Type   |    Device Serial    |  Time   |   
+test_tapping_current_place_button,PASS,AndroidDevice,FA6BA0300749,SatSep1806:42:47IST51373

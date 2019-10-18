@@ -1,0 +1,145 @@
+{
+  "mobiledevice": {
+    "pixel": {
+            "android9":{"CLEAR_CACHE": "CLEAR CACHE",
+                        "CLEAR_STORAGE": "CLEAR STORAGE",
+                        "NAVIGATION_DRAWER": "Open navigation drawer",
+                        "POP_UP_DENY" : "DENY ANYWAY",
+                        "POP_UP_CANCEL" : "CANCEL",
+                        "CONTACT_SURNAME_TEXT" : "Last name",
+                        "PHONETIC_LAST_NAME" : "Phonetic last name",
+                        "SAVE_BTN" : "Save",
+                        "ADD_TO_FAV" : "Add to favorites",
+                        "FAV" : "Favorites",
+                        "DENY" : "DENY",
+                        "ALLOW" : "ALLOW",
+                        "POPUP_DENY" : "DENY",
+                        "POPUP_ALLOW" : "ALLOW",
+                        "SAVE_BTN_SHARE" : "SAVE",
+                        "CAMERA_TAKE_PHOTO" : "Shutter",
+                        "CAMERA_RESET_DONE" : "DONE"},
+            "android10":{"CLEAR_CACHE": "CLEAR CACHE",
+                        "CLEAR_STORAGE": "CLEAR STORAGE",
+                        "NAVIGATION_DRAWER": "Open navigation drawer",
+                        "POP_UP_DENY" : "DENY ANYWAY",
+                        "POP_UP_CANCEL" : "CANCEL",
+                        "CONTACT_SURNAME_TEXT" : "Last name",
+                        "PHONETIC_LAST_NAME" : "Phonetic last name",
+                        "SAVE_BTN" : "Save",
+                        "ADD_TO_FAV" : "Add to favorites",
+                        "FAV" : "Favorites",
+                        "DENY" : "DENY",
+                        "ALLOW" : "ALLOW",
+                        "POPUP_DENY" : "DENY",
+                        "POPUP_ALLOW" : "ALLOW",
+                        "SAVE_BTN_SHARE" : "SAVE",
+                        "CAMERA_TAKE_PHOTO" : "Shutter",
+                        "CAMERA_RESET_DONE" : "DONE"}
+    },
+    "pixel2": {
+            "android9":{"CLEAR_CACHE": "CLEAR CACHE",
+                        "CLEAR_STORAGE": "CLEAR STORAGE",
+                        "NAVIGATION_DRAWER": "Open navigation drawer",
+                        "POP_UP_DENY" : "DENY ANYWAY",
+                        "POP_UP_CANCEL" : "CANCEL",
+                        "CONTACT_SURNAME_TEXT" : "Last name",
+                        "PHONETIC_LAST_NAME" : "Phonetic last name",
+                        "SAVE_BTN" : "Save",
+                        "ADD_TO_FAV" : "Add to favorites",
+                        "FAV" : "Favorites",
+                        "DENY" : "DENY",
+                        "ALLOW" : "ALLOW",
+                        "POPUP_DENY" : "DENY",
+                        "POPUP_ALLOW" : "ALLOW",
+                        "SAVE_BTN_SHARE" : "SAVE",
+                        "CAMERA_TAKE_PHOTO" : "Shutter",
+                        "CAMERA_RESET_DONE" : "DONE"},
+            "android10":{"CLEAR_CACHE": "CLEAR CACHE",
+                        "CLEAR_STORAGE": "CLEAR STORAGE",
+                        "NAVIGATION_DRAWER": "Open navigation drawer",
+                        "POP_UP_DENY" : "DENY ANYWAY",
+                        "POP_UP_CANCEL" : "CANCEL",
+                        "CONTACT_SURNAME_TEXT" : "Surname",
+                        "PHONETIC_LAST_NAME" : "Phonetic last name",
+                        "SAVE_BTN" : "Save",
+                        "ADD_TO_FAV" : "Add to favorites",
+                        "FAV" : "Favorites",
+                        "DENY" : "DENY",
+                        "ALLOW" : "ALLOW",
+                        "POPUP_DENY" : "DENY",
+                        "POPUP_ALLOW" : "ALLOW",
+                        "SAVE_BTN_SHARE" : "SAVE",
+                        "CAMERA_TAKE_PHOTO" : "Shutter",
+                        "CAMERA_RESET_DONE" : "DONE"}
+
+    },
+    "pixel3": {
+            "android9":{"CLEAR_CACHE": "CLEAR CACHE",
+                        "CLEAR_STORAGE": "CLEAR STORAGE",
+                        "NAVIGATION_DRAWER": "Open navigation drawer",
+                        "POP_UP_DENY" : "DENY ANYWAY",
+                        "POP_UP_CANCEL" : "CANCEL",
+                        "CONTACT_SURNAME_TEXT" : "Last name",
+                        "PHONETIC_LAST_NAME" : "Phonetic last name",
+                        "SAVE_BTN" : "Save",
+                        "ADD_TO_FAV" : "Add to favorites",
+                        "FAV" : "Favorites",
+                        "DENY" : "DENY",
+                        "ALLOW" : "ALLOW",
+                        "POPUP_DENY" : "DENY",
+                        "POPUP_ALLOW" : "ALLOW",
+                        "SAVE_BTN_SHARE" : "SAVE",
+                        "CAMERA_TAKE_PHOTO" : "Shutter",
+                        "CAMERA_RESET_DONE" : "DONE"},
+            "android10":{"CLEAR_CACHE": "CLEAR CACHE",
+                        "CLEAR_STORAGE": "CLEAR STORAGE",
+                        "NAVIGATION_DRAWER": "Open navigation drawer",
+                        "POP_UP_DENY" : "DENY ANYWAY",
+                        "POP_UP_CANCEL" : "CANCEL",
+                        "CONTACT_SURNAME_TEXT" : "Surname",
+                        "PHONETIC_LAST_NAME" : "Phonetic last name",
+                        "SAVE_BTN" : "Save",
+                        "ADD_TO_FAV" : "Add to favorites",
+                        "FAV" : "Favorites",
+                        "DENY" : "DENY",
+                        "ALLOW" : "ALLOW",
+                        "POPUP_DENY" : "DENY",
+                        "POPUP_ALLOW" : "ALLOW",
+                        "SAVE_BTN_SHARE" : "SAVE",
+                        "CAMERA_TAKE_PHOTO" : "Shutter",
+                        "CAMERA_RESET_DONE" : "DONE"}
+    },
+    "pixel2xl": {
+      "CLEAR_CACHE": "Clear cache",
+      "CLEAR_STORAGE": "Clear storage",
+      "NAVIGATION_DRAWER": "Open navigation drawer"
+    }
+  },
+  "iotdevice": {
+    "googlechrome": {
+    },
+    "rpi": {
+      "home": "home_rpi"
+    },
+    "camera": {
+    }
+  },
+  "desktop": {
+    "windows": {
+    },
+    "ubuntu": {
+      "os": "linux"
+    },
+    "ios": {
+    }
+  },
+    "tv": {
+      "sony": {
+      },
+      "samsung": {
+        "os": "linux"
+      },
+      "androidtv": {
+      }
+    }
+}

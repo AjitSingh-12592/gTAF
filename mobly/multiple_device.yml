@@ -1,0 +1,16 @@
+TestBeds:
+  - Name: TwoDeviceTestBed
+    Controllers:
+        AndroidDevice:
+          - serial: CVH7N16806000813
+            label: target
+          - serial: 0bb37a7f036ac02e
+            label: discoverer
+    TestParams:
+        bluetooth_name: MagicBluetooth
+        bluetooth_timeout: 5
+  - Name: WiFiDeviceTestBed
+    Controllers:
+        AndroidDevice:
+          - serial: 0bb37a7f036ac02e
+            label: target

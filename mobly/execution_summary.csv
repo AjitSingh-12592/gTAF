@@ -1,0 +1,179 @@
+999,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 09:34:46,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/999/,No Exception
+999,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 09:34:46,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/999/,No Exception
+3,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 09:46:38,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/3/,No Exception
+0,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 09:48:10,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/0/,No Exception
+1,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 09:52:14,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/1/,No Exception
+2,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 09:59:30,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/2/,No Exception
+11,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 10:00:30,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/11/,No Exception
+4,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 10:15:05,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/4/,No Exception
+6,test_create_contact_name,FAIL,AndroidDevice,98867839554e444e32,2019-10-07 10:18:26,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_name/6/,Exception
+7,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 10:20:46,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/7/,No Exception
+8,test_create_contact_name,PASS,AndroidDevice,98867839554e444e32,2019-10-07 10:22:53,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_name/8/,No Exception
+9,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 10:24:52,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/9/,No Exception
+263,test_create_contact_name,PASS,AndroidDevice,98867839554e444e32,2019-10-07 10:29:42,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_name/263/,No Exception
+263,test_create_contact_name,PASS,AndroidDevice,98867839554e444e32,2019-10-07 10:35:02,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_name/263/,No Exception
+1,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 10:42:23,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/1/,No Exception
+265,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 10:46:16,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/265/,No Exception
+266,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 10:48:29,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/266/,No Exception
+267,test_create_contact_name,PASS,AndroidDevice,98867839554e444e32,2019-10-07 10:48:40,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_name/267/,No Exception
+266,test_create_contact_all_fields,PASS,AndroidDevice,FA6A40300536,2019-10-07 10:51:08,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_all_fields/266/,No Exception
+267,test_create_contact_all_fields,PASS,AndroidDevice,98867839554e444e32,2019-10-07 10:52:06,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_all_fields/267/,No Exception
+268,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 10:56:28,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/268/,No Exception
+269,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 10:57:50,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/269/,No Exception
+270,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:00:07,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/270/,No Exception
+271,test_create_contact_name,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:00:14,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_name/271/,No Exception
+270,test_create_contact_all_fields,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:02:45,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_all_fields/270/,No Exception
+271,test_create_contact_all_fields,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:03:42,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_all_fields/271/,No Exception
+272,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:07:04,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/272/,No Exception
+273,test_create_contact_name,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:07:11,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_name/273/,No Exception
+272,test_create_contact_all_fields,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:09:42,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_all_fields/272/,No Exception
+273,test_create_contact_all_fields,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:10:39,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_all_fields/273/,No Exception
+272,test_remove_favorite_contact,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:10:41,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_remove_favorite_contact/272/,No Exception
+273,test_remove_favorite_contact,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:11:43,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_remove_favorite_contact/273/,No Exception
+272,test_contact_permission_revoke_from_gmail,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:12:54,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_contact_permission_revoke_from_gmail/272/,No Exception
+273,test_contact_permission_revoke_from_gmail,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:13:45,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_contact_permission_revoke_from_gmail/273/,No Exception
+272,test_delete_contact,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:14:03,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_delete_contact/272/,No Exception
+273,test_delete_contact,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:15:04,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_delete_contact/273/,No Exception
+272,test_contact_permission_grant_from_gmail,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:15:26,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_contact_permission_grant_from_gmail/272/,No Exception
+273,test_contact_permission_grant_from_gmail,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:16:28,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_contact_permission_grant_from_gmail/273/,No Exception
+272,test_strong_match_for_duplicates,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:17:11,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_strong_match_for_duplicates/272/,No Exception
+272,test_suggestion_welcome_card,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:18:14,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_suggestion_welcome_card/272/,No Exception
+273,test_strong_match_for_duplicates,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:18:36,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_strong_match_for_duplicates/273/,No Exception
+273,test_suggestion_welcome_card,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:19:49,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_suggestion_welcome_card/273/,No Exception
+272,test_merge_duplicates,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:20:18,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_merge_duplicates/272/,No Exception
+272,test_create_label,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:21:13,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_label/272/,No Exception
+273,test_merge_duplicates,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:22:01,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_merge_duplicates/273/,No Exception
+272,test_contact_help_feedback,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:22:49,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_contact_help_feedback/272/,No Exception
+273,test_create_label,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:23:01,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_label/273/,No Exception
+272,test_google_play_service_permission_revoke,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:24:46,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_google_play_service_permission_revoke/272/,No Exception
+273,test_contact_help_feedback,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:24:48,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_contact_help_feedback/273/,No Exception
+273,test_google_play_service_permission_revoke,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:26:48,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_google_play_service_permission_revoke/273/,No Exception
+272,test_search_favourite_on_top,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:29:32,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_search_favourite_on_top/272/,No Exception
+272,test_favourite_in_all_contact,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:30:54,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_favourite_in_all_contact/272/,No Exception
+272,test_share_contacts,FAIL,AndroidDevice,FA6A40300536,2019-10-07 11:31:20,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_share_contacts/272/,Exception
+273,test_search_favourite_on_top,FAIL,AndroidDevice,98867839554e444e32,2019-10-07 11:32:41,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_search_favourite_on_top/273/,Exception
+273,test_favourite_in_all_contact,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:34:10,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_favourite_in_all_contact/273/,No Exception
+273,test_share_contacts,FAIL,AndroidDevice,98867839554e444e32,2019-10-07 11:34:37,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_share_contacts/273/,Exception
+10,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:52:13,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/10/,No ExceptionPQ3A.190801.002
+11,test_create_contact_name,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:53:10,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_name/11/,No ExceptionR16NW
+10,test_create_contact_all_fields,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:54:53,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_all_fields/10/,No ExceptionPQ3A.190801.002
+10,test_remove_favorite_contact,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:55:54,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_remove_favorite_contact/10/,No ExceptionPQ3A.190801.002
+11,test_create_contact_all_fields,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:56:40,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_all_fields/11/,No ExceptionR16NW
+11,test_remove_favorite_contact,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:57:43,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_remove_favorite_contact/11/,No Exception,R16NW
+10,test_contact_permission_revoke_from_gmail,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:58:01,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_contact_permission_revoke_from_gmail/10/,No Exception,PQ3A.190801.002
+10,test_delete_contact,PASS,AndroidDevice,FA6A40300536,2019-10-07 11:59:07,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_delete_contact/10/,No Exception,PQ3A.190801.002
+11,test_contact_permission_revoke_from_gmail,PASS,AndroidDevice,98867839554e444e32,2019-10-07 11:59:45,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_contact_permission_revoke_from_gmail/11/,No Exception,R16NW
+10,test_contact_permission_grant_from_gmail,PASS,AndroidDevice,FA6A40300536,2019-10-07 12:00:29,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_contact_permission_grant_from_gmail/10/,No Exception,PQ3A.190801.002
+11,test_delete_contact,PASS,AndroidDevice,98867839554e444e32,2019-10-07 12:00:59,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_delete_contact/11/,No Exception,R16NW
+10,test_strong_match_for_duplicates,PASS,AndroidDevice,FA6A40300536,2019-10-07 12:02:12,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_strong_match_for_duplicates/10/,No Exception,PQ3A.190801.002
+11,test_contact_permission_grant_from_gmail,PASS,AndroidDevice,98867839554e444e32,2019-10-07 12:02:33,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_contact_permission_grant_from_gmail/11/,No Exception,R16NW
+10,test_suggestion_welcome_card,PASS,AndroidDevice,FA6A40300536,2019-10-07 12:03:16,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_suggestion_welcome_card/10/,No Exception,PQ3A.190801.002
+11,test_strong_match_for_duplicates,PASS,AndroidDevice,98867839554e444e32,2019-10-07 12:04:37,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_strong_match_for_duplicates/11/,No Exception,R16NW
+10,test_merge_duplicates,PASS,AndroidDevice,FA6A40300536,2019-10-07 12:05:08,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_merge_duplicates/10/,No Exception,PQ3A.190801.002
+11,test_suggestion_welcome_card,PASS,AndroidDevice,98867839554e444e32,2019-10-07 12:05:53,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_suggestion_welcome_card/11/,No Exception,R16NW
+10,test_create_label,PASS,AndroidDevice,FA6A40300536,2019-10-07 12:06:02,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_label/10/,No Exception,PQ3A.190801.002
+10,test_contact_help_feedback,PASS,AndroidDevice,FA6A40300536,2019-10-07 12:07:35,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_contact_help_feedback/10/,No Exception,PQ3A.190801.002
+11,test_merge_duplicates,PASS,AndroidDevice,98867839554e444e32,2019-10-07 12:08:04,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_merge_duplicates/11/,No Exception,R16NW
+11,test_create_label,PASS,AndroidDevice,98867839554e444e32,2019-10-07 12:09:05,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_label/11/,No Exception,R16NW
+10,test_google_play_service_permission_revoke,PASS,AndroidDevice,FA6A40300536,2019-10-07 12:09:31,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_google_play_service_permission_revoke/10/,No Exception,PQ3A.190801.002
+11,test_contact_help_feedback,PASS,AndroidDevice,98867839554e444e32,2019-10-07 12:10:53,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_contact_help_feedback/11/,No Exception,R16NW
+11,test_google_play_service_permission_revoke,PASS,AndroidDevice,98867839554e444e32,2019-10-07 12:12:49,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_google_play_service_permission_revoke/11/,No Exception,R16NW
+10,test_search_favourite_on_top,PASS,AndroidDevice,FA6A40300536,2019-10-07 12:14:18,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_search_favourite_on_top/10/,No Exception,PQ3A.190801.002
+10,test_favourite_in_all_contact,PASS,AndroidDevice,FA6A40300536,2019-10-07 12:15:38,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_favourite_in_all_contact/10/,No Exception,PQ3A.190801.002
+11,test_search_favourite_on_top,PASS,AndroidDevice,98867839554e444e32,2019-10-07 12:18:36,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_search_favourite_on_top/11/,No Exception,R16NW
+10,test_share_contacts,PASS,AndroidDevice,FA6A40300536,2019-10-07 12:19:09,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_share_contacts/10/,No Exception,PQ3A.190801.002
+11,test_favourite_in_all_contact,PASS,AndroidDevice,98867839554e444e32,2019-10-07 12:20:09,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_favourite_in_all_contact/11/,No Exception,R16NW
+11,test_share_contacts,PASS,AndroidDevice,98867839554e444e32,2019-10-07 12:24:04,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_share_contacts/11/,No Exception,R16NW
+21,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-09 04:46:27,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/21/,No Exception,PQ3A.190801.002
+21,test_create_contact_name,FAIL,AndroidDevice,FA6A40300536,2019-10-09 04:47:53,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_all_fields/21/,Exception,PQ3A.190801.002
+277,test_create_contact_name,FAIL,AndroidDevice,FA6A40300536,2019-10-09 04:47:53,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/277/,Exception,PQ3A.190801.002
+21,test_delete_contact,PASS,AndroidDevice,FA6A40300536,2019-10-09 04:48:50,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_delete_contact/21/,No Exception,PQ3A.190801.002
+21,test_create_label,PASS,AndroidDevice,FA6A40300536,2019-10-09 04:49:43,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_label/21/,No Exception,PQ3A.190801.002
+22,test_create_contact_all_fields,PASS,AndroidDevice,98867839554e444e32,2019-10-09 04:55:45,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_all_fields/22/,No Exception,R16NW
+280,test_create_contact_name,FAIL,AndroidDevice,FA6A40300536,2019-10-09 05:22:20,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/280/,Exception,PQ3A.190801.002
+5,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-09 05:30:50,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/5/,No Exception,PQ3A.190801.002
+6,test_create_contact_name,PASS,AndroidDevice,98867839554e444e32,2019-10-09 05:30:58,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_name/6/,No Exception,R16NW
+6,test_remove_favorite_contact,PASS,AndroidDevice,98867839554e444e32,2019-10-09 05:32:01,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_remove_favorite_contact/6/,No Exception,R16NW
+6,test_delete_contact,FAIL,AndroidDevice,98867839554e444e32,2019-10-09 05:33:20,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_delete_contact/6/,Exception,R16NW
+5,test_create_contact_all_fields,PASS,AndroidDevice,FA6A40300536,2019-10-09 05:33:30,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_all_fields/5/,No Exception,PQ3A.190801.002
+5,test_remove_favorite_contact,PASS,AndroidDevice,FA6A40300536,2019-10-09 05:34:30,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_remove_favorite_contact/5/,No Exception,PQ3A.190801.002
+6,test_contact_permission_revoke_from_gmail,PASS,AndroidDevice,98867839554e444e32,2019-10-09 05:35:26,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_contact_permission_revoke_from_gmail/6/,No Exception,R16NW
+5,test_contact_permission_revoke_from_gmail,PASS,AndroidDevice,FA6A40300536,2019-10-09 05:36:44,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_contact_permission_revoke_from_gmail/5/,No Exception,PQ3A.190801.002
+6,test_contact_permission_grant_from_gmail,PASS,AndroidDevice,98867839554e444e32,2019-10-09 05:37:00,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_contact_permission_grant_from_gmail/6/,No Exception,R16NW
+5,test_delete_contact,PASS,AndroidDevice,FA6A40300536,2019-10-09 05:37:53,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_delete_contact/5/,No Exception,PQ3A.190801.002
+5,test_contact_permission_grant_from_gmail,PASS,AndroidDevice,FA6A40300536,2019-10-09 05:39:15,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_contact_permission_grant_from_gmail/5/,No Exception,PQ3A.190801.002
+4,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-09 06:53:40,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/4/,No Exception,PQ3A.190801.002
+5,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-09 06:57:33,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/5/,No Exception,PQ3A.190801.002
+282,test_create_contact_name,FAIL,AndroidDevice,FA6A40300536,2019-10-09 07:04:26,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/282/,Exception,PQ3A.190801.002
+7,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-09 07:39:06,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/7/,No Exception,PQ3A.190801.002
+8,test_create_contact_name,PASS,AndroidDevice,98867839554e444e32,2019-10-09 07:39:32,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_name/8/,No Exception,R16NW
+7,test_create_contact_all_fields,PASS,AndroidDevice,FA6A40300536,2019-10-09 07:41:47,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_all_fields/7/,No Exception,PQ3A.190801.002
+8,test_create_contact_all_fields,PASS,AndroidDevice,98867839554e444e32,2019-10-09 07:43:07,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_all_fields/8/,No Exception,R16NW
+284,test_create_contact_name,FAIL,AndroidDevice,FA6A40300536,2019-10-09 08:46:15,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/284/,Exception,PQ3A.190801.002
+11,test_create_contact_name,FAIL,AndroidDevice,FA6A40300536,2019-10-09 08:46:15,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/11/,Exception,PQ3A.190801.002
+285,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-09 08:50:10,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/285/,No Exception,PQ3A.190801.002
+12,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-09 08:53:33,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/12/,No Exception,PQ3A.190801.002
+10,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-09 09:11:27,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/10/,No Exception,PQ3A.190801.002
+11,test_create_contact_name,PASS,AndroidDevice,98867839554e444e32,2019-10-09 09:12:00,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_name/11/,No Exception,R16NW
+10,test_create_contact_all_fields,PASS,AndroidDevice,FA6A40300536,2019-10-09 09:14:10,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_all_fields/10/,No Exception,PQ3A.190801.002
+10,test_remove_favorite_contact,PASS,AndroidDevice,FA6A40300536,2019-10-09 09:15:08,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_remove_favorite_contact/10/,No Exception,PQ3A.190801.002
+11,test_create_contact_all_fields,FAIL,AndroidDevice,98867839554e444e32,2019-10-09 09:15:37,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_all_fields/11/,Exception,R16NW
+11,test_remove_favorite_contact,PASS,AndroidDevice,98867839554e444e32,2019-10-09 09:16:39,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_remove_favorite_contact/11/,No Exception,R16NW
+10,test_contact_permission_revoke_from_gmail,PASS,AndroidDevice,FA6A40300536,2019-10-09 09:17:18,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_contact_permission_revoke_from_gmail/10/,No Exception,PQ3A.190801.002
+10,test_delete_contact,PASS,AndroidDevice,FA6A40300536,2019-10-09 09:18:26,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_delete_contact/10/,No Exception,PQ3A.190801.002
+11,test_contact_permission_revoke_from_gmail,PASS,AndroidDevice,98867839554e444e32,2019-10-09 09:18:42,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_contact_permission_revoke_from_gmail/11/,No Exception,R16NW
+10,test_create_contact_name,FAIL,AndroidDevice,FA6A40300536,2019-10-09 09:19:44,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_contact_permission_grant_from_gmail/10/,Exception,PQ3A.190801.002
+14,test_create_contact_name,FAIL,AndroidDevice,FA6A40300536,2019-10-09 09:19:44,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/14/,Exception,PQ3A.190801.002
+11,test_delete_contact,PASS,AndroidDevice,98867839554e444e32,2019-10-09 09:19:49,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_delete_contact/11/,No Exception,R16NW
+11,test_contact_permission_grant_from_gmail,PASS,AndroidDevice,98867839554e444e32,2019-10-09 09:21:23,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_contact_permission_grant_from_gmail/11/,No Exception,R16NW
+10,test_strong_match_for_duplicates,PASS,AndroidDevice,FA6A40300536,2019-10-09 09:21:24,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_strong_match_for_duplicates/10/,No Exception,PQ3A.190801.002
+10,test_suggestion_welcome_card,PASS,AndroidDevice,FA6A40300536,2019-10-09 09:22:28,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_suggestion_welcome_card/10/,No Exception,PQ3A.190801.002
+11,test_strong_match_for_duplicates,PASS,AndroidDevice,98867839554e444e32,2019-10-09 09:23:30,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_strong_match_for_duplicates/11/,No Exception,R16NW
+10,test_merge_duplicates,PASS,AndroidDevice,FA6A40300536,2019-10-09 09:24:31,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_merge_duplicates/10/,No Exception,PQ3A.190801.002
+11,test_suggestion_welcome_card,PASS,AndroidDevice,98867839554e444e32,2019-10-09 09:24:42,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_suggestion_welcome_card/11/,No Exception,R16NW
+10,test_create_label,PASS,AndroidDevice,FA6A40300536,2019-10-09 09:25:25,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_label/10/,No Exception,PQ3A.190801.002
+11,test_merge_duplicates,PASS,AndroidDevice,98867839554e444e32,2019-10-09 09:26:49,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_merge_duplicates/11/,No Exception,R16NW
+10,test_contact_help_feedback,PASS,AndroidDevice,FA6A40300536,2019-10-09 09:27:00,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_contact_help_feedback/10/,No Exception,PQ3A.190801.002
+11,test_create_label,PASS,AndroidDevice,98867839554e444e32,2019-10-09 09:27:49,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_label/11/,No Exception,R16NW
+11,test_contact_help_feedback,PASS,AndroidDevice,98867839554e444e32,2019-10-09 09:29:23,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_contact_help_feedback/11/,No Exception,R16NW
+11,test_google_play_service_permission_revoke,PASS,AndroidDevice,98867839554e444e32,2019-10-09 09:31:20,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_google_play_service_permission_revoke/11/,No Exception,R16NW
+10,test_search_favourite_on_top,PASS,AndroidDevice,FA6A40300536,2019-10-09 09:31:44,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_search_favourite_on_top/10/,No Exception,PQ3A.190801.002
+10,test_google_play_service_permission_revoke,PASS,AndroidDevice,FA6A40300536,2019-10-09 09:33:45,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_google_play_service_permission_revoke/10/,No Exception,PQ3A.190801.002
+10,test_favourite_in_all_contact,PASS,AndroidDevice,FA6A40300536,2019-10-09 09:35:09,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_favourite_in_all_contact/10/,No Exception,PQ3A.190801.002
+11,test_search_favourite_on_top,FAIL,AndroidDevice,98867839554e444e32,2019-10-09 09:37:16,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_search_favourite_on_top/11/,Exception,R16NW
+10,test_share_contacts,PASS,AndroidDevice,FA6A40300536,2019-10-09 09:38:39,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_share_contacts/10/,No Exception,PQ3A.190801.002
+11,test_favourite_in_all_contact,PASS,AndroidDevice,98867839554e444e32,2019-10-09 09:38:49,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_favourite_in_all_contact/11/,No Exception,R16NW
+11,test_share_contacts,PASS,AndroidDevice,98867839554e444e32,2019-10-09 09:42:42,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_share_contacts/11/,No Exception,R16NW
+2,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-09 09:43:41,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/2/,No Exception,PQ3A.190801.002
+1,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-09 09:45:29,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/1/,No Exception,PQ3A.190801.002
+290,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-09 10:31:43,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/290/,No Exception,PQ3A.190801.002
+291,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-09 10:36:43,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/291/,No Exception,PQ3A.190801.002
+11,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-09 10:40:54,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/11/,No Exception,PQ3A.190801.002
+12,test_create_contact_name,FAIL,AndroidDevice,98867839554e444e32,2019-10-09 10:42:44,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_name/12/,Exception,R16NW
+13,test_create_contact_name,FAIL,AndroidDevice,98867839554e444e32,2019-10-09 10:43:33,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_name/13/,Exception,R16NW
+13,test_delete_contact,PASS,AndroidDevice,98867839554e444e32,2019-10-09 10:44:51,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_delete_contact/13/,No Exception,R16NW
+12,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-09 11:14:51,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/12/,No Exception,PQ3A.190801.002
+12,test_create_contact_all_fields,FAIL,AndroidDevice,FA6A40300536,2019-10-09 11:17:42,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_all_fields/12/,Exception,PQ3A.190801.002
+13,test_share_contacts,PASS,AndroidDevice,98867839554e444e32,2019-10-09 11:17:55,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_share_contacts/13/,No Exception,R16NW
+12,test_remove_favorite_contact,PASS,AndroidDevice,FA6A40300536,2019-10-09 11:18:41,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_remove_favorite_contact/12/,No Exception,PQ3A.190801.002
+13,test_favourite_in_all_contact,PASS,AndroidDevice,98867839554e444e32,2019-10-09 11:19:24,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_favourite_in_all_contact/13/,No Exception,R16NW
+12,test_contact_permission_revoke_from_gmail,FAIL,AndroidDevice,FA6A40300536,2019-10-09 11:20:10,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_contact_permission_revoke_from_gmail/12/,Exception,PQ3A.190801.002
+12,test_delete_contact,PASS,AndroidDevice,FA6A40300536,2019-10-09 11:21:18,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_delete_contact/12/,No Exception,PQ3A.190801.002
+13,test_search_favourite_on_top,PASS,AndroidDevice,98867839554e444e32,2019-10-09 11:25:18,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_search_favourite_on_top/13/,No Exception,R16NW
+13,test_google_play_service_permission_revoke,PASS,AndroidDevice,98867839554e444e32,2019-10-09 11:27:17,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_google_play_service_permission_revoke/13/,No Exception,R16NW
+13,test_contact_help_feedback,PASS,AndroidDevice,98867839554e444e32,2019-10-09 11:29:09,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_contact_help_feedback/13/,No Exception,R16NW
+13,test_create_label,PASS,AndroidDevice,98867839554e444e32,2019-10-09 11:30:09,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_label/13/,No Exception,R16NW
+14,test_create_contact_all_fields,PASS,AndroidDevice,FA6A40300536,2019-10-11 04:04:34,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_all_fields/14/,No Exception,PQ3A.190801.002
+15,test_create_contact_all_fields,PASS,AndroidDevice,FA6A40300536,2019-10-11 04:09:33,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_all_fields/15/,No Exception,PQ3A.190801.002
+16,test_create_contact_all_fields,PASS,AndroidDevice,98867839554e444e32,2019-10-11 04:10:27,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_all_fields/16/,No Exception,R16NW
+17,test_create_contact_all_fields,PASS,AndroidDevice,FA6A40300536,2019-10-11 04:12:42,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_all_fields/17/,No Exception,PQ3A.190801.002
+18,test_create_contact_all_fields,PASS,AndroidDevice,98867839554e444e32,2019-10-11 04:14:02,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_all_fields/18/,No Exception,R16NW
+19,test_create_contact_all_fields,PASS,AndroidDevice,FA6A40300536,2019-10-11 04:15:37,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_all_fields/19/,No Exception,PQ3A.190801.002
+21,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-11 04:17:16,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/21/,No Exception,PQ3A.190801.002
+20,test_create_contact_all_fields,PASS,AndroidDevice,98867839554e444e32,2019-10-11 04:17:39,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_all_fields/20/,No Exception,R16NW
+22,test_create_contact_name,PASS,AndroidDevice,98867839554e444e32,2019-10-11 04:19:13,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_name/22/,No Exception,R16NW
+21,test_create_contact_all_fields,PASS,AndroidDevice,FA6A40300536,2019-10-11 04:19:56,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_all_fields/21/,No Exception,PQ3A.190801.002
+23,test_create_contact_name,PASS,AndroidDevice,FA6A40300536,2019-10-11 04:21:40,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_name/23/,No Exception,PQ3A.190801.002
+22,test_create_contact_all_fields,PASS,AndroidDevice,98867839554e444e32,2019-10-11 04:22:43,/gtaflog/GTAF_TEST_BED_CONTACT_98867839554e444e32/test_create_contact_all_fields/22/,No Exception,R16NW
+23,test_create_contact_all_fields,PASS,AndroidDevice,FA6A40300536,2019-10-11 04:24:18,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_create_contact_all_fields/23/,No Exception,PQ3A.190801.002
+23,test_remove_favorite_contact,PASS,AndroidDevice,FA6A40300536,2019-10-11 04:25:17,/gtaflog/GTAF_TEST_BED_CONTACT_FA6A40300536/test_remove_favorite_contact/23/,No Exception,PQ3A.190801.002

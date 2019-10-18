@@ -1,0 +1,15 @@
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_merge_duplicates --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_favourite_in_all_contact --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_google_play_service_permission_revoke --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_share_contacts --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_create_contact_name --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_create_contact_all_fields --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_remove_favorite_contact --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_contact_permission_revoke_from_gmail --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_delete_contact --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_contact_permission_grant_from_gmail --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_create_label --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_suggestion_welcome_card --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_contact_help_feedback --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_search_favourite_on_top --test_bed GTAF_TEST_BED_CONTACT
+sudo python test_contacts_app.py -c gtaf_config.yml --test_case test_strong_match_for_duplicates --test_bed GTAF_TEST_BED_CONTACT

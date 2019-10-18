@@ -1,0 +1,78 @@
+TestBeds:
+  - Name: GTAF_TEST_BED_GMAP
+    Controllers:
+        AndroidDevice:
+          - serial: FA6BA0300749
+  - Name: GTAF_TEST_BED_YOUTUBE
+    Controllers:
+        AndroidDevice:
+          - serial: FA6BA0300749
+            phone_number: 7891011
+  - Name: GTAF_TEST_BED_GOOGLE_HOME_AIY
+    Controllers:
+        AndroidDevice:
+          - serial: FA6BA0300749
+            phone_number:
+  - Name: GTAF_TEST_BED_BT_PAIRING
+    Controllers:
+        AndroidDevice:
+          - serial: FA6BA0300749
+            label: discoverer
+          - serial: FA6A40300536
+            label: target
+  - Name: GTAF_TEST_BED_WEB_BROWSER
+    Controllers:
+        AndroidDevice:
+          - serial: FA6BA0300749
+  - Name: GTAF_TEST_BED_CONTACT
+    Controllers:
+        AndroidDevice:
+          - serial: FA6BA0300749
+  - Name: GTAF_TEST_BED_CONTACT_device1
+    Controllers:
+        AndroidDevice:
+          - serial: FA6A40300536
+  - Name: GTAF_TEST_BED_CONTACT_device2
+    Controllers:
+        AndroidDevice:
+          - serial: 98867839554e444e32
+  - Name: GTAF_TEST_BED_CONTACT_device3
+    Controllers:
+        AndroidDevice:
+          - serial: 93EAY0A2F5
+  - Name: GTAF_TEST_BED_CONTACT_1
+    Controllers:
+        AndroidDevice:
+          - serial: 98867839554e444e32
+  - Name: GTAF_TEST_BED_CONTACT_2
+    Controllers:
+        AndroidDevice:
+          - serial: FA6A40300536
+  - Name: GTAF_TEST_BED_CONTACT_3
+    Controllers:
+        AndroidDevice:
+          - serial: emulator-5558
+  - Name: GTAF_TEST_BED_CONTACT_4
+    Controllers:
+        AndroidDevice:
+          - serial: emulator-5560
+  - Name: GTAF_TEST_BED_OCULUS
+    Controllers:
+        AndroidDevice:
+          - serial: FA6A40300536
+  - Name: GTAF_TEST_BED_SONY_TV
+    Controllers:
+        AndroidDevice:
+          - serial: 10.92.33.93:5555
+  - Name: GTAF_TEST_BED_CONTACT_FA6A40300536
+    Controllers:
+       AndroidDevice:
+          - serial: FA6A40300536
+  - Name: GTAF_TEST_BED_CONTACT_98867839554e444e32
+    Controllers:
+       AndroidDevice:
+          - serial: 98867839554e444e32
+  - Name: GTAF_TEST_BED_CONTACT_FA6BA0300749
+    Controllers:
+       AndroidDevice:
+          - serial: FA6BA0300749
